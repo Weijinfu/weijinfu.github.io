@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a joint masters' student at SIGS of Tsinghua University and Huawei Technologies, supervised by <a href="https://www.sigs.tsinghua.edu.cn/lr/main.htm">Prof. Ran Liao</a> and <a href="https://gao-duan.github.io/">Dr. Duan Gao</a>.
-<!-- In the first year of my masters' degree, I worked on polarization optics for classification using machine learning methods. Now, -->
-My research focuses on the intersection of computer vision, computer graphics and deep learning, with a focus on 3D digital human and material of 3D object generation.
+I am currently a joint master's student at SIGS of Tsinghua University and Huawei Technologies, supervised by <a href="https://www.sigs.tsinghua.edu.cn/lr/main.htm">Prof. Ran Liao</a> and <a href="https://gao-duan.github.io/">Dr. Duan Gao</a>.
+<!-- In the first year of my master's degree, I worked on polarization optics for classification using machine learning methods. Now, -->
+My research focuses on the intersection of computer vision, computer graphics, and deep learning, with a focus on 3D digital human and material of 3D object generation.
 I'm also involved in denoising for Monte Carlo rendering and model watermarking during my internship.
 Before that, I received my B.E. degree in 2022 from Shanghai Polytechnic University. 
 
@@ -30,7 +30,7 @@ Before that, I received my B.E. degree in 2022 from Shanghai Polytechnic Univers
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/controlFace.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/controlface.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ControlFace: Few-Shot 3D Face Generation via a Controllable Diffusion Model Guided by Text and Images](pdf/ControlFace.pdf)
@@ -78,7 +78,7 @@ Linxuan Xin, Zheng Zhang, **Jinfu Wei**, Wei Gao, Duan Gao
 
 **Jinfu Wei**\*, Heng Chang\*, Xiaohang Liu\*, Li Liu, Likun Li, Shiji Zhou, CChengyuan Li, Di Xu, Wei Gao, Ran Liao.
 
-- The first approach to add watermarks in DMs for point clouds generation;
+- The first approach to add watermarks in DMs for point cloud generation;
 - PI-HiDDeN tackles the challenge of extracting watermarks in the point cloud from the permutation invariant embedding space. 
 - The dual-period distilling confronts the challenge of the accumulation of gradients in DMs that prevents the completion of the point cloud;
 </div>
