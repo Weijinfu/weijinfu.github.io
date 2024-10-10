@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a joint master's student at SIGS of Tsinghua University and Huawei Technologies, supervised by <a href="https://www.sigs.tsinghua.edu.cn/lr/main.htm">Prof. Ran Liao</a> and <a href="https://gao-duan.github.io/">Dr. Duan Gao</a>.
 <!-- In the first year of my master's degree, I worked on polarization optics for classification using machine learning methods. Now, -->
-My research focuses on the intersection of computer vision, computer graphics, and deep learning, with a focus on 3D digital human and material of 3D object generation.
+My research focuses on the intersection of computer vision, computer graphics, and deep learning, with a focus on 3D/2D generation.
 I'm also involved in denoising for Monte Carlo rendering and model watermarking during my internship.
 Before that, I received my B.E. degree in 2022 from Shanghai Polytechnic University. 
 
