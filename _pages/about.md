@@ -28,7 +28,7 @@ Before that, I received my B.E. degree in 2022 from Shanghai Polytechnic Univers
 - *2024.10*: &nbsp; I'm looking for an opportunity to study for a Ph.D.
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/controlface.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -76,7 +76,7 @@ Linxuan Xin, Zheng Zhang, **Jinfu Wei**, Wei Gao, Duan Gao
 
 [Dual-Process Watermarked Diffusion: Integrating Watermarking with Denoising in Point Clouds](pdf/DPWD.pdf)
 
-**Jinfu Wei**\*, Heng Chang\*, Xiaohang Liu\*, Li Liu, Likun Li, Shiji Zhou, CChengyuan Li, Di Xu, Wei Gao, Ran Liao.
+**Jinfu Wei**\*, Heng Chang\*, Xiaohang Liu\*, Li Liu, Likun Li, Shiji Zhou, Chengyuan Li, Di Xu, Wei Gao, Ran Liao.
 
 - The first approach to add watermarks in DMs for point cloud generation;
 - PI-HiDDeN tackles the challenge of extracting watermarks in the point cloud from the permutation invariant embedding space. 
@@ -84,7 +84,7 @@ Linxuan Xin, Zheng Zhang, **Jinfu Wei**, Wei Gao, Duan Gao
 </div>
 </div>
 
-- `Under review` [Implanting Robust Watermarks in Latent Diffusion Models for Video Generation]() Xiaohang Liu\*, Heng Chang\*, **Jinfu Wei**, Lei Zhu, Li Liu, Likun Li, Shiji Zhou, Chengyuan Li, Di Xu, Wei Gao.
+<!-- - `Under review` [Implanting Robust Watermarks in Latent Diffusion Models for Video Generation]() Xiaohang Liu\*, Heng Chang\*, **Jinfu Wei**, Lei Zhu, Li Liu, Likun Li, Shiji Zhou, Chengyuan Li, Di Xu, Wei Gao. -->
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
