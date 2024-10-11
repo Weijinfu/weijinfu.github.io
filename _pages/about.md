@@ -101,7 +101,7 @@ Linxuan Xin, Zheng Zhang, **Jinfu Wei**, Wei Gao, Duan Gao
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2023.07 - now*, [Media Innovation Lab, Huawei](https://www.huaweicloud.com/lab/multimedia/home.html), China.
+- *2023.06 - now*, [Media Innovation Lab, Huawei](https://www.huaweicloud.com/lab/multimedia/home.html), China.
 
 # 💡 Misc
 - I am a big fan of detective fiction novels and movies.
