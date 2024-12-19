@@ -84,7 +84,7 @@ Linxuan Xin, Zheng Zhang, **Jinfu Wei**, Wei Gao, Duan Gao
 </div>
 </div>
 
-- `Under review` [Implanting Robust Watermarks in Latent Diffusion Models for Video Generation](pdf/Video_icassp-hang.pdf) Xiaohang Liu\*, Heng Chang\*, **Jinfu Wei**, Lei Zhu, Li Liu, Likun Li, Shiji Zhou, Chengyuan Li, Di Xu, Wei Gao
+`Under review` [Implanting Robust Watermarks in Latent Diffusion Models for Video Generation](pdf/Video_icassp-hang.pdf) Xiaohang Liu\*, Heng Chang\*, **Jinfu Wei**, Lei Zhu, Li Liu, Likun Li, Shiji Zhou, Chengyuan Li, Di Xu, Wei Gao
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
